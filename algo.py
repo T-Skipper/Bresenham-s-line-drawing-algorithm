@@ -56,7 +56,7 @@ def bresen(x, y, j, k):
     plt.xlabel("X Co-ordinates")
     plt.ylabel("Y Co-ordinates")
     plt.show()
-    plt.savefig(f'Images/Image {axes[0]}{axes[-1]}')
+    plt.savefig(f'Images/Image_{axes[0][0]}_{axes[0][1]}_{axes[-1][0]}_{axes[-1][1]}')
 
 
 bresen(12, 24, 18, 30)
