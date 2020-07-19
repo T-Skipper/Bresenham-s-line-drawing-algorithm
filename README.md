@@ -15,3 +15,8 @@
 *5. Coordinate in 4 becomes New Origin.*
 *6. Repeat using the `P1` as the new Decision Parameter.*
 
+## *Examples*
+
+![image](Images/Image_12_24_18_30.png)
+![image](Images/Image_5_45_45_45.png)
+![image](Images/Image_4_22_43_61.png)
