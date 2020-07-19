@@ -4,6 +4,7 @@
 *It is an incremental scan conversion algorithm that uses only integer calculations.*<br>
 *It is commonly used to draw lines on a computer screen, as it uses only integer addition, subtraction and bit shifting, all of which are very cheap operations in standard computer architectures.*
 
+
 # *Steps*
 
 *1. Input the Origin and End points<br>*
@@ -13,3 +14,9 @@
 If not, `(X+1, Y+1)` and `P1 = P∘ + 2(∆y - ∆x)`.<br>*
 *5. Coordinate in 4 becomes New Origin.<br>*
 *6. Repeat using the `P1` as the new Decision Parameter.*
+
+# *Examples*
+
+![image]("Images/Image [12, 24][18, 30].png")
+![image]("Images/Image [5, 45][45, 45].png")
+![image]("Images/Image [4, 22][43, 61].png")
